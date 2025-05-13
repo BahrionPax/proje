@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Okul.Models
+namespace MVCProjesi.Models
 {
     public class OkulDb_1Context : DbContext 
     {

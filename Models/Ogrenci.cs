@@ -1,4 +1,5 @@
-﻿namespace Okul.Models
+﻿
+namespace MVCProjesi.Models
 {
     public class Ogrenci
     {

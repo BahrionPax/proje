@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Okul.Models;
+using MVCProjesi.Models;
 
-namespace Okul.Controllers
+namespace MVCProjesi.Controllers
 {
     public class Student : Controller
     {
